@@ -1,0 +1,4 @@
+ofxAssimpModelLoader
+ofxGui
+ofxKinectV2
+ofxOpenCv
