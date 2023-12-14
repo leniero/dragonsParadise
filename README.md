@@ -29,4 +29,4 @@ The project explores themes of loneliness, exile, and love, using biblical and n
 
   Contact
 
-For more information, visit [www.leandro-niero.com](http://www.leandro-niero.com.html).
+For more information, visit [www.leandro-niero.com](http://www.leandro-niero.com).
