@@ -30,7 +30,3 @@ The project explores themes of loneliness, exile, and love, using biblical and n
   Contact
 
 For more information, visit [www.leandro-niero.com](http://www.leandro-niero.com.html).
-
----
-
-This README provides a comprehensive overview of the "Dragons Don't Know Paradise" project, capturing its artistic vision and technical framework. Feel free to adjust or expand the content to align with your specific project details and objectives.
